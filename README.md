@@ -1,3 +1,5 @@
+<img src='https://devjoseph.herokuapp.com/static/img/python-django.a07e0585.05de5d61e1a1.png'>
+
 # Instalación de Django
 
 Para empezar a desarrollar en Django, necesitaremos hacer algunas herramientas, así que procederemos a intalar lo siguiente:
@@ -21,7 +23,7 @@ En la tienda de extensiones podras encontrar:
 * Herramientas para servidores locales
 * Mucho más
 
-La personalización es a tu gusto y diferente a cada persona pero te recomiendo este video para ir iniciado, y con el tiempo, tu tendras tus extensiones favoritas.
+La personalización es a tu gusto y diferente a cada persona pero te recomiendo estos videos para ir iniciado, y con el tiempo, tu tendras tus extensiones favoritas.
 
 Recuerda, no necesitas instalar todo, solo lo que a ti te guste
 
@@ -31,11 +33,10 @@ Recuerda, no necesitas instalar todo, solo lo que a ti te guste
 Algunos trucos
 * <a href='https://www.youtube.com/watch?v=ZYSUN99taBo'>🏆Los 5 mejores TRUCOS [poco conocidos] para VSCODE usado por PROFESIONALES (2021)</a>
 
-Y uno que si te recomiendo es el guardado automatico, varia en cada programador y puedes desactivarlo a tu gusto
+Y uno que si te recomiendo es el guardado automatico, varia en cada programador y puedes desactivarlo cuando tu gustes.
 <a href='https://www.youtube.com/watch?v=Dhkth0KW4hU'>Activar autoguardado Visual Studio</a>
 
 ## 2. Instalar Python
-
 La instalación de python cambia dependiendo el sistema operativo.
 
 ### Instalar Python en Windows
@@ -62,8 +63,7 @@ Ahora procedemos a instalar una versión actual
 
 
 ## 3. Pip 
-
-Ahora que instalamos python, tambien ya contamos con pip, para ver que ya tenemos pip, procederemos a ir a la consola/terminal como vimos en un paso anterior.
+Para ver que ya tenemos pip, procederemos a ir a la consola/terminal como vimos en un paso anterior.
 
 ### Windows
 ```Bas
@@ -74,5 +74,7 @@ pip --version
 pip3 --version
 ```
 ## 4. Instalar extensión para Python
-En la parte de extensiones de Visual Code, vamos a buscar la correspondiende a `Python`. Estas extensiones suelen aparecer para ser instaladas cuando incorporas un archivo de algún lenguaje y es recomendable instalarlas cuando nos preguntan. 
+En la parte de extensiones de Visual Code, vamos a buscar la correspondiende a `Python`. Estas extensiones suelen aparecer cuando incorporas un archivo de algún lenguaje y es recomendable instalarlas cuando nos preguntan. 
+
+<img src='https://i.blogs.es/0e7a72/python-extension-marketplace/450_1000.png'>
 
