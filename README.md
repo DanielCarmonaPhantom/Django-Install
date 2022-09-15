@@ -78,3 +78,72 @@ En la parte de extensiones de Visual Code, vamos a buscar la correspondiende a `
 
 <img src='https://i.blogs.es/0e7a72/python-extension-marketplace/450_1000.png'>
 
+## 5. Introducción a Django
+
+Ahora que ya contamos con nuestro editor de código, lo que haremos es crear la carpeta donde empezaremos a trabajar. 
+
+### Moverte a la carpeta documentos
+
+Vamos a tener una carpeta donde trabajaremos, así que crearemos una. 
+
+La forma en que voy a crearla es desde la consola, ya que vamos a estar trabajando con un servidor y ese esta corriendo en la consola.
+
+#### Paso 1: Abrir la consola o terminal y moverte a la carpeta documentos
+
+Cuando abrimos nuestra terminal, nos abre siempre el el Usuario que estamos en nuestra computadora.
+
+##### Windows: 
+```Bash
+C:\usarios\yourUser>
+```
+
+y si colocas `dir` podras observar la carpeta documentos, descargas, videos entre otras.
+
+Para moverte a `Documentos` solo deberas teclear:
+
+```Bash
+C:\usarios\yourUser> cd Docu
+```
+
+y sin terminar la palabra, presiona la tecla `tabulador` para que se autocomplete y das enter.
+
+Ahora debes estar en una ruta como:
+
+```Bash
+C:\usarios\yourUser\Documentos>
+```
+
+##### Mac:
+Cuando abres la terminal, ese no te especifica tu posicion en las carpetas ya que sale algo parecido a esto:
+```Bash
+yourUser@nameComputer ~ %
+```
+
+Pero al igual que Windows, estas posicionado en tu usuario, así que nos moveremos igual a la carpeta Documentos
+
+```Bash
+yourUser@nameComputer ~ % cd Docu
+```
+
+y sin terminar la palabra, presiona la tecla `tabulador` para que se autocomplete y das enter.
+
+Ahora debes estar en una ruta como:
+
+```Bash
+yourUser@nameComputer Documents % 
+```
+
+### Paso 2: Crear una carpeta llamada proyecto
+
+Para crear una carpeta, utilizaremos el comando `mkdir` y a lado el nombre del proyecto.
+
+Ejemplo Windows:
+
+```Bash
+C:\usarios\yourUser\Documentos> mkdir proyecto1
+```
+
+Ejemplo Mac:
+```Bash
+yourUser@nameComputer Documents % mkdir proyecto1
+```
