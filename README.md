@@ -24,6 +24,8 @@ En la tienda de extensiones podrás encontrar:
 * Herramientas para servidores locales
 * Mucho más
 
+
+### Extra:
 La personalización es a tu gusto y diferente a cada persona pero te recomiendo estos videos para ir iniciando, y con el tiempo, tú tendrás tus extensiones favoritas.
 
 Recuerda, no necesitas instalar todo, solo lo que a ti te guste
